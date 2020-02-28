@@ -1,0 +1,4 @@
+Future Fitzanon
+- Konsisten belajar bahasa pemrograman python
+- Membuat aplikasi berbasis python
+- Merevisi aplikasi yang telah di develop
