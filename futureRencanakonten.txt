@@ -2,5 +2,6 @@ Rencana konten future Fitzanon
 - python 
   > framework flask
   > Connect database
+  > Fundamental data structure
 - html & css
 - java
