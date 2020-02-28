@@ -1,0 +1,6 @@
+Rencana konten future Fitzanon
+- python 
+  > framework flask
+  > Connect database
+- html & css
+- java
