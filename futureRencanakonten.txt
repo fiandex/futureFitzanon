@@ -1,6 +1,10 @@
 Rencana konten future Fitzanon
 - python 
   > framework flask
+    > test 1
+    > test 2
   > Connect database
+  > Fundamental data structure
 - html & css
 - java
+- Hanya test
