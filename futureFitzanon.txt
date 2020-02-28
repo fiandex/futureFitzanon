@@ -3,3 +3,4 @@ Future Fitzanon
 - Membuat aplikasi berbasis python
 - Merevisi aplikasi yang telah di develop
 - Kolaborasi dengan lebih banyak expert
+- Membuat vlog
