@@ -6,5 +6,6 @@ Rencana konten future Fitzanon
   > Connect database
   > Fundamental data structure
 - html & css
+  > belajar framework css
 - java
 - Hanya test
