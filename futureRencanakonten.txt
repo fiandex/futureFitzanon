@@ -1,0 +1,4 @@
+Rencana konten future Fitzanon
+- python 
+- html & css
+- java
